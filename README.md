@@ -97,19 +97,19 @@ Read our Medium Article [Here](https://medium.com/@kubeready/introducing-kuberea
 <table>
   <tr>
     <td>
-      <img src="https://github.com/oslabs-beta/kubeready/blob/njpallivathucal-readMe/alana_photo.jpg?raw=true" alt="Alana Herlands" width="200" height="160"><br>Alana Herlands<br><a href="https://github.com/alanaherlands">GitHub</a> | <a href="https://www.linkedin.com/in/alanaherlands/">LinkedIn</a><br>Software Engineer
+      Alana Herlands<br><a href="https://github.com/alanaherlands">GitHub</a> | <a href="https://www.linkedin.com/in/alanaherlands/">LinkedIn</a><br>Software Engineer
     </td>
     <td>
-      <img src="https://github.com/oslabs-beta/kubeready/blob/njpallivathucal-readMe/diane.jpeg?raw=true" alt="Diane Moon" width="200" height="160"><br>Diane Moon<br><a href="https://github.com/dianemoon">GitHub</a> | <a href="https://www.linkedin.com/in/dianejmoon/">LinkedIn</a><br>Software Engineer
+      Diane Moon<br><a href="https://github.com/dianemoon">GitHub</a> | <a href="https://www.linkedin.com/in/dianejmoon/">LinkedIn</a><br>Software Engineer
     </td>
     <td>
-      <img src="https://github.com/oslabs-beta/kubeready/blob/njpallivathucal-readMe/serena.jpeg?raw=true" alt="Serena Romano" width="200" height="160"><br>Serena Romano<br><a href="https://github.com/serenahromano">GitHub</a> | <a href="https://www.linkedin.com/in/srom1/">LinkedIn</a><br>Software Engineer
+      Serena Romano<br><a href="https://github.com/serenahromano">GitHub</a> | <a href="https://www.linkedin.com/in/srom1/">LinkedIn</a><br>Software Engineer
     </td>
     <td>
-      <img src="https://github.com/oslabs-beta/kubeready/blob/njpallivathucal-readMe/alvin.jpg?raw=true" alt="Alvin Cheung" width="200" height="160"><br>Alvin Cheung<br><a href="https://github.com/alvin-cheung">GitHub</a> | <a href="https://www.linkedin.com/in/alvin-cy-cheung/">LinkedIn</a><br>Software Engineer
+      Alvin Cheung<br><a href="https://github.com/alvin-cheung">GitHub</a> | <a href="https://www.linkedin.com/in/alvin-cy-cheung/">LinkedIn</a><br>Software Engineer
     </td>
     <td>
-      <img src="https://github.com/oslabs-beta/kubeready/blob/njpallivathucal-readMe/noel%20palli.jpeg?raw=true" alt="Noel Pallivathucal" width="200" height="160"><br>Noel Pallivathucal<br><a href="https://github.com/njpallivathucal">GitHub</a> | <a href="https://www.linkedin.com/in/njpallivathucal/">LinkedIn</a><br>Software Engineer
+      Noel Pallivathucal<br><a href="https://github.com/njpallivathucal">GitHub</a> | <a href="https://www.linkedin.com/in/njpallivathucal/">LinkedIn</a><br>Software Engineer
     </td>
   </tr>
 </table>
